@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/notux/static/css/main.34589737.chunk.css",
-    "main.js": "/notux/static/js/main.1dae868e.chunk.js",
-    "main.js.map": "/notux/static/js/main.1dae868e.chunk.js.map",
-    "runtime-main.js": "/notux/static/js/runtime-main.27a8c868.js",
-    "runtime-main.js.map": "/notux/static/js/runtime-main.27a8c868.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/notux/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2bc48ad8.chunk.js": "/notux/static/js/2.2bc48ad8.chunk.js",
-    "static/js/2.2bc48ad8.chunk.js.map": "/notux/static/js/2.2bc48ad8.chunk.js.map",
-    "index.html": "/notux/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/notux/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.34589737.chunk.css.map": "/notux/static/css/main.34589737.chunk.css.map",
-    "static/js/2.2bc48ad8.chunk.js.LICENSE.txt": "/notux/static/js/2.2bc48ad8.chunk.js.LICENSE.txt"
+    "main.css": "/Notux/static/css/main.34589737.chunk.css",
+    "main.js": "/Notux/static/js/main.1dae868e.chunk.js",
+    "main.js.map": "/Notux/static/js/main.1dae868e.chunk.js.map",
+    "runtime-main.js": "/Notux/static/js/runtime-main.f6f916e8.js",
+    "runtime-main.js.map": "/Notux/static/js/runtime-main.f6f916e8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Notux/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2bc48ad8.chunk.js": "/Notux/static/js/2.2bc48ad8.chunk.js",
+    "static/js/2.2bc48ad8.chunk.js.map": "/Notux/static/js/2.2bc48ad8.chunk.js.map",
+    "index.html": "/Notux/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Notux/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.34589737.chunk.css.map": "/Notux/static/css/main.34589737.chunk.css.map",
+    "static/js/2.2bc48ad8.chunk.js.LICENSE.txt": "/Notux/static/js/2.2bc48ad8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27a8c868.js",
+    "static/js/runtime-main.f6f916e8.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2bc48ad8.chunk.js",
     "static/css/main.34589737.chunk.css",
