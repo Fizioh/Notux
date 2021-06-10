@@ -15,18 +15,18 @@ const TodoItem = ({ id, title, completed }) => {
 
 
 	return (
-		<li className={`list-group-item ${completed && 'list-group-item-success'}`}>
+		<li className={`list-group-item ${completed && 'list-group-item-success delete' }`}>
 			<div className='d-flex justify-content-between'>
 				<span className='d-flex align-items-center'>
 					<input 
 						type='checkbox' 
-						className='mr-3' 
+						className='mr-5'
 						checked={completed}
 						onChange={handleCompleteClick}
 						></input>
 					{title}
 				</span>
-				<button onClick={handleDeleteClick} className='btn btn-danger'>Delete</button>
+				<btn onClick={handleDeleteClick} className='btn '><i class="far fa-times-circle text-danger"></i></btn>
 			</div>
 		</li>
 	);
